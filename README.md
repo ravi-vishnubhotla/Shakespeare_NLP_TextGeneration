@@ -1,0 +1,2 @@
+# Shakespeare_NLP_TextGeneration
+Generate sentences like Shakespeare
